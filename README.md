@@ -6,8 +6,8 @@
 
 ---
 
-🎓 MS Bioinformatics @ Georgia Tech | BS Genetics @ UGA 
-💻 Python | Bash | SQL | R | Git
+🎓 MS Bioinformatics @ Georgia Tech | BS Genetics @ UGA  
+💻 Python | Bash | SQL | R | Git  
 📍 Based in Atlanta, GA | 🌐 [Email Me](mailto:cbeuscher3@gatech.edu)
 
 ---
