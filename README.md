@@ -1,13 +1,12 @@
 ## <h1 align="center">👋 Hi there, I'm Caroline</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3332F7&width=480&lines=Weclome+to+my+Github!;Bioinformatician;Evolutionary+Biologist;Data-driven+and+community-centered" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3332F7&width=480&lines=Weclome+to+my+Github!;Bioinformatician;Evolutionary+Biologist;Data-driven+&+community-centered" alt="Typing SVG" />
 </div>
 
 ---
 
-🎓 MS Bioinformatics @ Georgia Tech | BS Genetics @ UGA  
-🔬 Computational Genomics | Molecular Evolution  
+🎓 MS Bioinformatics @ Georgia Tech | BS Genetics @ UGA 
 💻 Python | Bash | SQL | R | Git
 📍 Based in Atlanta, GA | 🌐 [Email Me](mailto:cbeuscher3@gatech.edu)
 
